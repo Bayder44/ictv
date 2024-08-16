@@ -3,13 +3,13 @@
 
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360
 playlist_360p.m3u8
-http://bananatv.org:25461/live/bayder225/123456@/7143.ts
+https://pull.niues.live/live/stream-486629_lhd.m3u8?auth_key=1723835061-0-0-247cae1416ee61952d1850f9c0b2017c
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=854x480
 playlist_480p.m3u8
-http://bananatv.org:25461/live/bayder225/123456@/7143.ts
+https://pull.niues.live/live/stream-486629_lhd.m3u8?auth_key=1723835061-0-0-247cae1416ee61952d1850f9c0b2017c
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
 playlist_720p.m3u8
-http://bananatv.org:25461/live/bayder225/123456@/7143.ts
+https://pull.niues.live/live/stream-486629_lhd.m3u8?auth_key=1723835061-0-0-247cae1416ee61952d1850f9c0b2017c
 #EXT-X-STREAM-INF:BANDWIDTH=4000000,RESOLUTION=1920x1080
 playlist_1080p.m3u8
-http://bananatv.org:25461/live/bayder225/123456@/7143.ts
+https://pull.niues.live/live/stream-486629_lhd.m3u8?auth_key=1723835061-0-0-247cae1416ee61952d1850f9c0b2017c
